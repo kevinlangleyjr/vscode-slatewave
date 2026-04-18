@@ -8,6 +8,8 @@ A dark VSCode theme built around a slate foundation and a teal signature, with s
 
 ![Slatewave preview](docs/preview.png)
 
+![Slatewave code preview](docs/preview-code.png)
+
 </div>
 
 ---
