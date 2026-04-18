@@ -1,16 +1,14 @@
+<div align="center">
+
 # Slatewave
 
 A dark VSCode theme built around a slate foundation and a teal signature, with sky/rose/purple/amber accents pulled directly from a matching [oh-my-posh prompt](#companion-oh-my-posh-prompt). Designed so the terminal prompt and the editor chrome feel like one continuous surface.
 
 > _Slate below, teal above._
 
----
+![Slatewave preview](docs/preview.png)
 
-## Preview
-
-_(add screenshot: `docs/preview.png`)_
-
-A good preview shot captures: editor + integrated terminal with the companion oh-my-posh prompt visible, a diff gutter, a git-dirty tab, and the status bar.
+</div>
 
 ---
 
