@@ -17,5 +17,6 @@
         "path": "./themes/slatewave-color-theme.json"
       }
     ]
-  }
+  },
+  "license": "WTFPL"
 }
