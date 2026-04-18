@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/logo.png" alt="Slatewave" width="300" />
+<img src="docs/logo.png" alt="Slatewave" width="840" />
 
 # Slatewave
 
