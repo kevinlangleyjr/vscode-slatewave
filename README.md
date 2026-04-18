@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/logo.png" alt="Slatewave" width="300" />
+
 # Slatewave
 
 A dark VSCode theme built around a slate foundation and a teal signature, with sky/rose/purple/amber accents pulled directly from a matching [oh-my-posh prompt](#companion-oh-my-posh-prompt). Designed so the terminal prompt and the editor chrome feel like one continuous surface.
