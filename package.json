@@ -3,6 +3,7 @@
   "displayName": "Slatewave",
   "description": "Dark theme matching the kevinlangleyjr oh-my-posh prompt — slate foundation, teal signature, sky/rose/purple/amber accents.",
   "version": "0.0.1",
+  "repository": "https://github.com/kevinlangleyjr/vscode-slatewave",
   "publisher": "kevinlangleyjr",
   "engines": {
     "vscode": "^1.70.0"
