@@ -1,0 +1,20 @@
+{
+  "name": "slatewave",
+  "displayName": "Slatewave",
+  "description": "Dark theme matching the kevinlangleyjr oh-my-posh prompt — slate foundation, teal signature, sky/rose/purple/amber accents.",
+  "version": "0.0.1",
+  "publisher": "kevinlangleyjr",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Slatewave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slatewave-color-theme.json"
+      }
+    ]
+  }
+}
