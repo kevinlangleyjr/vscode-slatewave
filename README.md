@@ -197,4 +197,4 @@ Issues and PRs welcome. If you're proposing a palette change, please include a b
 
 ## License
 
-MIT
+WTFPL – Do What The Fuck You Want To Public License. See [LICENSE](LICENSE).
