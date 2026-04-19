@@ -160,7 +160,7 @@ Slatewave was designed against a matching oh-my-posh prompt. The palette in this
 - Battery discharging → warning status bar
 - Exit != 0 → editor error foreground
 
-_(link to prompt repo here once it's published)_
+See [slatewave-omp](https://github.com/kevinlangleyjr/slatewave-omp) for the matching Oh My Posh prompt.
 
 ---
 
