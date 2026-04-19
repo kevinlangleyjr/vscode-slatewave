@@ -8,7 +8,15 @@
   "engines": {
     "vscode": "^1.70.0"
   },
-  "categories": ["Themes"],
+  "scripts": {
+    "build": "vsce package"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.9.1"
+  },
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
