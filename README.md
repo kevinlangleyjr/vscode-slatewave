@@ -69,34 +69,34 @@ Each accent maps to a specific role in both the prompt and the editor, so the te
 
 ## Syntax mapping
 
-| Token | Color | Style |
-|---|---|---|
-| Comments | `#64748b` | italic |
-| Keywords (`if`, `return`, `import`) | `#38bdf8` | — |
-| Storage (`const`, `let`, `function`, `class`) | `#B388FF` | italic |
-| Types / classes / interfaces | `#99f6e4` | — |
-| Functions (calls + definitions) | `#7dd3fc` | — |
-| Strings | `#5eead4` | — |
-| Numbers, booleans, `null`, `undefined` | `#fb7185` | — |
-| Constants (`UPPER_SNAKE`) | `#fb7185` | — |
-| Regex | `#fb7185` | — |
-| Escape sequences | `#fbbf24` | — |
-| Decorators / annotations | `#fbbf24` | italic |
-| `this` / `self` / `super` | `#B388FF` | italic |
-| Parameters | `#cbd5e1` | italic |
-| Properties / object keys | `#cbd5e1` | — |
-| Operators, punctuation | `#94a3b8` | — |
-| HTML/JSX tags | `#38bdf8` | — |
-| HTML/JSX attributes | `#B388FF` | italic |
-| CSS selectors | `#5eead4` | — |
-| CSS properties | `#7dd3fc` | — |
-| CSS custom properties (`--var`) | `#B388FF` | — |
-| CSS pseudo selectors | `#fbbf24` | — |
-| Markdown headings | `#5eead4` | bold |
-| Markdown links | `#38bdf8` | underline |
-| Markdown inline code | `#99f6e4` | — |
-| Diff inserted | `#5eead4` | — |
-| Diff deleted | `#fb7185` | — |
+| Token | | Color | Style |
+|---|---|---|---|
+| Comments | ![#64748b](https://placehold.co/20x20/64748b/64748b.png) | `#64748b` | italic |
+| Keywords (`if`, `return`, `import`) | ![#38bdf8](https://placehold.co/20x20/38bdf8/38bdf8.png) | `#38bdf8` | — |
+| Storage (`const`, `let`, `function`, `class`) | ![#B388FF](https://placehold.co/20x20/B388FF/B388FF.png) | `#B388FF` | italic |
+| Types / classes / interfaces | ![#99f6e4](https://placehold.co/20x20/99f6e4/99f6e4.png) | `#99f6e4` | — |
+| Functions (calls + definitions) | ![#7dd3fc](https://placehold.co/20x20/7dd3fc/7dd3fc.png) | `#7dd3fc` | — |
+| Strings | ![#5eead4](https://placehold.co/20x20/5eead4/5eead4.png) | `#5eead4` | — |
+| Numbers, booleans, `null`, `undefined` | ![#fb7185](https://placehold.co/20x20/fb7185/fb7185.png) | `#fb7185` | — |
+| Constants (`UPPER_SNAKE`) | ![#fb7185](https://placehold.co/20x20/fb7185/fb7185.png) | `#fb7185` | — |
+| Regex | ![#fb7185](https://placehold.co/20x20/fb7185/fb7185.png) | `#fb7185` | — |
+| Escape sequences | ![#fbbf24](https://placehold.co/20x20/fbbf24/fbbf24.png) | `#fbbf24` | — |
+| Decorators / annotations | ![#fbbf24](https://placehold.co/20x20/fbbf24/fbbf24.png) | `#fbbf24` | italic |
+| `this` / `self` / `super` | ![#B388FF](https://placehold.co/20x20/B388FF/B388FF.png) | `#B388FF` | italic |
+| Parameters | ![#cbd5e1](https://placehold.co/20x20/cbd5e1/cbd5e1.png) | `#cbd5e1` | italic |
+| Properties / object keys | ![#cbd5e1](https://placehold.co/20x20/cbd5e1/cbd5e1.png) | `#cbd5e1` | — |
+| Operators, punctuation | ![#94a3b8](https://placehold.co/20x20/94a3b8/94a3b8.png) | `#94a3b8` | — |
+| HTML/JSX tags | ![#38bdf8](https://placehold.co/20x20/38bdf8/38bdf8.png) | `#38bdf8` | — |
+| HTML/JSX attributes | ![#B388FF](https://placehold.co/20x20/B388FF/B388FF.png) | `#B388FF` | italic |
+| CSS selectors | ![#5eead4](https://placehold.co/20x20/5eead4/5eead4.png) | `#5eead4` | — |
+| CSS properties | ![#7dd3fc](https://placehold.co/20x20/7dd3fc/7dd3fc.png) | `#7dd3fc` | — |
+| CSS custom properties (`--var`) | ![#B388FF](https://placehold.co/20x20/B388FF/B388FF.png) | `#B388FF` | — |
+| CSS pseudo selectors | ![#fbbf24](https://placehold.co/20x20/fbbf24/fbbf24.png) | `#fbbf24` | — |
+| Markdown headings | ![#5eead4](https://placehold.co/20x20/5eead4/5eead4.png) | `#5eead4` | bold |
+| Markdown links | ![#38bdf8](https://placehold.co/20x20/38bdf8/38bdf8.png) | `#38bdf8` | underline |
+| Markdown inline code | ![#99f6e4](https://placehold.co/20x20/99f6e4/99f6e4.png) | `#99f6e4` | — |
+| Diff inserted | ![#5eead4](https://placehold.co/20x20/5eead4/5eead4.png) | `#5eead4` | — |
+| Diff deleted | ![#fb7185](https://placehold.co/20x20/fb7185/fb7185.png) | `#fb7185` | — |
 
 Semantic highlighting is enabled; declarations render **bold**, deprecated symbols render ~~strikethrough~~.
 
