@@ -2,7 +2,7 @@
   "name": "slatewave",
   "displayName": "Slatewave",
   "description": "Dark theme matching the Slatewave oh-my-posh prompt — slate foundation, teal signature, sky/rose/purple/amber accents.",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "repository": "https://github.com/kevinlangleyjr/vscode-slatewave",
   "publisher": "kevinlangleyjr",
   "engines": {
