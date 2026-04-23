@@ -164,6 +164,14 @@ See [slatewave-omp](https://github.com/kevinlangleyjr/slatewave-omp) for the mat
 
 ---
 
+## Companion Obsidian theme
+
+A matching Obsidian theme is available that shares the same slate foundation and teal signature, keeping your notes and your editor on the same visual surface.
+
+See [obsidian-slatewave](https://github.com/kevinlangleyjr/obsidian-slatewave) for the matching Obsidian theme.
+
+---
+
 ## Customize
 
 To override a specific color without forking the theme, add to your `settings.json`:
