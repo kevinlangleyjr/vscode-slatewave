@@ -2,9 +2,9 @@
 
 <img src="docs/logo.png" alt="Slatewave" width="840" />
 
-# Slatewave
+# Slatewave (VSCode)
 
-A dark VSCode theme built around a slate foundation and a teal signature, with sky/rose/purple/amber accents pulled directly from a matching [oh-my-posh prompt](#companion-oh-my-posh-prompt). Designed so the terminal prompt and the editor chrome feel like one continuous surface.
+A dark [VSCode](https://code.visualstudio.com) theme built around a slate foundation and a teal signature, with sky/rose/purple/amber accents. Part of the [Slatewave family](#slatewave-family) — one palette across editors, terminals, prompts, notes, and more.
 
 > _Slate below, teal above._
 
@@ -149,26 +149,19 @@ code --install-extension slatewave-0.0.1.vsix
 
 ---
 
-## Companion oh-my-posh prompt
+## Slatewave family
 
-Slatewave was designed against a matching oh-my-posh prompt. The palette in this theme is lifted directly from its segments — editor and terminal share a single color vocabulary.
+One palette. Every tool.
 
-- Git clean → editor keywords
-- Git dirty → editor numbers and modified files
-- Git ahead/behind → editor storage + `this`
-- Battery charging → remote status bar
-- Battery discharging → warning status bar
-- Exit != 0 → editor error foreground
+- **Editors** — [Neovim](https://github.com/kevinlangleyjr/neovim-slatewave) · [Helix](https://github.com/kevinlangleyjr/helix-slatewave) · [Zed](https://github.com/kevinlangleyjr/zed-slatewave) · [Sublime Text](https://github.com/kevinlangleyjr/sublime-text-slatewave) · [JetBrains](https://github.com/kevinlangleyjr/jetbrains-slatewave)
+- **Terminals** — [Alacritty](https://github.com/kevinlangleyjr/alacritty-slatewave) · [Ghostty](https://github.com/kevinlangleyjr/ghostty-slatewave) · [iTerm2](https://github.com/kevinlangleyjr/iterm2-slatewave) · [WezTerm](https://github.com/kevinlangleyjr/wezterm-slatewave) · [Windows Terminal](https://github.com/kevinlangleyjr/windows-terminal-slatewave)
+- **Prompts** — [Oh My Posh](https://github.com/kevinlangleyjr/slatewave-omp) · [Starship](https://github.com/kevinlangleyjr/starship-slatewave)
+- **Multiplexer** — [tmux](https://github.com/kevinlangleyjr/tmux-slatewave)
+- **Notes** — [Obsidian](https://github.com/kevinlangleyjr/obsidian-slatewave) · [Logseq](https://github.com/kevinlangleyjr/logseq-slatewave)
+- **Launchers** — [Alfred](https://github.com/kevinlangleyjr/alfred-slatewave) · [Raycast](https://github.com/kevinlangleyjr/raycast-slatewave)
+- **Chat** — [Slack](https://github.com/kevinlangleyjr/slack-slatewave)
 
-See [slatewave-omp](https://github.com/kevinlangleyjr/slatewave-omp) for the matching Oh My Posh prompt.
-
----
-
-## Companion Obsidian theme
-
-A matching Obsidian theme is available that shares the same slate foundation and teal signature, keeping your notes and your editor on the same visual surface.
-
-See [obsidian-slatewave](https://github.com/kevinlangleyjr/obsidian-slatewave) for the matching Obsidian theme.
+See [getslatewave.com](https://getslatewave.com) for the full family.
 
 ---
 
