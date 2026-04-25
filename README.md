@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="docs/logo.png" alt="Slatewave" width="840" />
+<img src="https://getslatewave.com/brand/icon.png" alt="" height="64" align="middle">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://getslatewave.com/brand/wordmark-light.png">
+  <img alt="Slatewave" src="https://getslatewave.com/brand/wordmark.png" height="64" align="middle">
+</picture>
 
 # Slatewave (VSCode)
 
