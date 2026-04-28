@@ -8,6 +8,9 @@
 
 # Slatewave (VSCode)
 
+[![VS Code Marketplace](https://img.shields.io/visual-studio-marketplace/v/kevinlangleyjr.slatewave?label=Marketplace&color=5eead4)](https://marketplace.visualstudio.com/items?itemName=kevinlangleyjr.slatewave)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/kevinlangleyjr.slatewave?color=38bdf8)](https://marketplace.visualstudio.com/items?itemName=kevinlangleyjr.slatewave)
+
 A dark [VSCode](https://code.visualstudio.com) theme built around a slate foundation and a teal signature, with sky/rose/purple/amber accents. Part of the [Slatewave family](#slatewave-family) — one palette across editors, terminals, prompts, notes, and more.
 
 > _Slate below, teal above._
