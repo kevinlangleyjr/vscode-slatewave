@@ -165,7 +165,7 @@ After installing, open the theme picker (`⌘K ⌘T` / `Ctrl+K Ctrl+T`) and choo
 
 ```sh
 git clone https://github.com/kevinlangleyjr/vscode-slatewave.git \
-  ~/.vscode/extensions/kevinlangleyjr.slatewave-0.0.1
+  ~/.vscode/extensions/kevinlangleyjr.slatewave-0.0.9
 ```
 
 Replace `~/.vscode/extensions` with your editor's extensions directory (`~/.cursor/extensions`, `~/.vscode-oss/extensions`, etc.) as needed.
@@ -174,7 +174,7 @@ Replace `~/.vscode/extensions` with your editor's extensions directory (`~/.curs
 
 ```sh
 vsce package
-code --install-extension slatewave-0.0.1.vsix
+code --install-extension slatewave-0.0.9.vsix
 ```
 
 ---
