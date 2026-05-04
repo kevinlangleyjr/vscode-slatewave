@@ -10,6 +10,7 @@
 
 [![VS Code Marketplace](https://vsmarketplacebadges.dev/version-short/kevinlangleyjr.slatewave.svg?label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=kevinlangleyjr.slatewave)
 [![Installs](https://vsmarketplacebadges.dev/installs-short/kevinlangleyjr.slatewave.svg)](https://marketplace.visualstudio.com/items?itemName=kevinlangleyjr.slatewave)
+[![Open VSX](https://img.shields.io/open-vsx/v/kevinlangleyjr/slatewave?label=Open%20VSX)](https://open-vsx.org/extension/kevinlangleyjr/slatewave)
 
 A dark [VSCode](https://code.visualstudio.com) theme built around a slate foundation and a teal signature, with sky/rose/purple/amber accents. Part of the [Slatewave family](#slatewave-family) — one palette across editors, terminals, prompts, notes, and more.
 
@@ -130,15 +131,35 @@ Bright variants follow the same mapping, shifted one step up the scale.
 
 ## Installation
 
-### From the Marketplace
+Slatewave is published to both the **[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=kevinlangleyjr.slatewave)** and **[Open VSX](https://open-vsx.org/extension/kevinlangleyjr/slatewave)**, so it works in any VS Code-compatible editor.
 
-Install **[Slatewave](https://marketplace.visualstudio.com/items?itemName=kevinlangleyjr.slatewave)** from the VS Code Marketplace, or from the CLI:
+### VS Code
 
 ```sh
 code --install-extension kevinlangleyjr.slatewave
 ```
 
-Then open the theme picker (`⌘K ⌘T` / `Ctrl+K Ctrl+T`) and choose **Slatewave**.
+### Cursor
+
+```sh
+cursor --install-extension kevinlangleyjr.slatewave
+```
+
+### VSCodium
+
+VSCodium uses Open VSX by default.
+
+```sh
+codium --install-extension kevinlangleyjr.slatewave
+```
+
+### Antigravity
+
+```sh
+antigravity --install-extension kevinlangleyjr.slatewave
+```
+
+After installing, open the theme picker (`⌘K ⌘T` / `Ctrl+K Ctrl+T`) and choose **Slatewave**.
 
 ### From a local clone
 
@@ -147,7 +168,7 @@ git clone https://github.com/kevinlangleyjr/vscode-slatewave.git \
   ~/.vscode/extensions/kevinlangleyjr.slatewave-0.0.1
 ```
 
-Reload VSCode, then open the theme picker (`⌘K ⌘T` / `Ctrl+K Ctrl+T`) and choose **Slatewave**.
+Replace `~/.vscode/extensions` with your editor's extensions directory (`~/.cursor/extensions`, `~/.vscode-oss/extensions`, etc.) as needed.
 
 ### From a `.vsix`
 
