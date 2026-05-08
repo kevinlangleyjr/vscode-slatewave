@@ -11,6 +11,7 @@
 [![VS Code Marketplace](https://vsmarketplacebadges.dev/version-short/kevinlangleyjr.slatewave.svg?label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=kevinlangleyjr.slatewave)
 [![Installs](https://vsmarketplacebadges.dev/installs-short/kevinlangleyjr.slatewave.svg)](https://marketplace.visualstudio.com/items?itemName=kevinlangleyjr.slatewave)
 [![Open VSX](https://img.shields.io/open-vsx/v/kevinlangleyjr/slatewave?label=Open%20VSX)](https://open-vsx.org/extension/kevinlangleyjr/slatewave)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/kevinlangleyjr/slatewave?label=Downloads)](https://open-vsx.org/extension/kevinlangleyjr/slatewave)
 
 A dark [VSCode](https://code.visualstudio.com) theme built around a slate foundation and a teal signature, with sky/rose/purple/amber accents. Part of the [Slatewave family](#slatewave-family) — one palette across editors, terminals, prompts, notes, and more.
 
